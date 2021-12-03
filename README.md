@@ -19,7 +19,7 @@
     <header>
             <h1><a href="index.php">-----rio Store-----</a></h1>
             <ul>
-                <li><a href="index.php">mobile legends</a></li>
+                <li><a href="https://forms.gle/ZncuAZe6uY1og89r8">mobile legends</a></li>
                 <li><a href="https://forms.gle/TRA2xoVL42aJfV9b8">free fire</a></li>
             </ul>
     </header>
