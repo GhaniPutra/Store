@@ -5,8 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rio Store Home</title>
+    <icon src="real logo.webp">
     <link rel="stylesheet" href="index.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+    <link rel="stylesheet" href="min.css">
 </head>
 <body>
 
@@ -18,10 +19,11 @@
                 Selamat datang di Rio Store kamu bisa membeli Diamond dan menjoki akun mobile legends mu dengan murah dan cepat            </ul>
         </div>
     <header>
-            <h1><a href="https://ghaniputra.github.io/Store/">-----rio Store-----</a></h1>
+            <h1><a href="index.php">-----rio Store-----</a></h1>
             <ul>
-                <li><a href="https://forms.gle/ZncuAZe6uY1og89r8">mobile legends</a></li>
+                <li><a href="https://forms.glr/">mobile legends</a></li>
                 <li><a href="https://forms.gle/TRA2xoVL42aJfV9b8">free fire</a></li>
+                <li><a href="https://page.line.me/609padmo">Order here</a></li>
             </ul>
     </header>
     </div>
